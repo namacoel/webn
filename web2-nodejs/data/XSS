@@ -1,0 +1,6 @@
+<h1>This is dirty.</h1>
+<script>
+alert("김민아");
+location.href="https://www.naver.com";
+</script>
+End.
